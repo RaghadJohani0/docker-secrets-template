@@ -1,0 +1,10 @@
+# Secrets (MUST NEVER BE COMMITTED)
+secrets/*
+!secrets/*.example
+
+# Environment files
+.env
+.env.*
+
+# OS
+.DS_Store
