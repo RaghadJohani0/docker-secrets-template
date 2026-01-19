@@ -1,2 +1,9 @@
-# docker-secrets-template
-Production-ready Docker Secrets Management template following security best practices. No secrets in Git.
+# Docker Secrets Template
+Secure secrets management template using Docker Secrets. No secrets in Git.
+
+## How to use
+
+1. Create secrets locally:
+```bash
+cp secrets/db_password.txt.example secrets/db_password.txt
+cp secrets/api_key.txt.example secrets/api_key.txt
