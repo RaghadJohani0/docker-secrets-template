@@ -7,3 +7,5 @@ Secure secrets management template using Docker Secrets. No secrets in Git.
 ```bash
 cp secrets/db_password.txt.example secrets/db_password.txt
 cp secrets/api_key.txt.example secrets/api_key.txt
+
+License: Non-Commercial – Copyright (c) 2026 Raghad Johani
